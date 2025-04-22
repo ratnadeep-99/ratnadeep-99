@@ -1,6 +1,6 @@
 #   Ratnadeep Bhattacharya
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/fire_99)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/fire_99/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-green?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ratnadeepbh1999/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ratnadeep_bh1999)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ratnadeep-bhattacharya)

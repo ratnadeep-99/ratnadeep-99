@@ -16,35 +16,48 @@ I'm a Software Development Engineer passionate about building scalable and effic
 
 ## 🧰  Technical Skills
 
-💻 **Programming Languages:**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br/>
-🖌️ **Frontend Technologies:**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/PureScript-4D4DFF?style=for-the-badge&logo=purescript&logoColor=white"><br/>
-🛠️ **Backend Technologies:**
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Beckn-009AFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyAgdmlld0JveD0iMCAwIDYwMCA2MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE1MCAwaDMwMGM4Mi44IDAgMTUwIDY3LjIgMTUwIDE1MHYzMDBjMCA4Mi44LTY3LjIgMTUwLTE1MCAxNTBIMTUwQzY3LjIgNjAwIDAgNTMyLjggMCA0NTBWMTAwQzAgNjcuMiA2Ny4yIDAgMTUwIDB6IiBmaWxsPSIjMDA5QUZGIi8+PHBhdGggZD0iTTE1MCAwaDMwMGM4Mi44IDAgMTUwIDY3LjIgMTUwIDE1MHYzMDBjMCA4Mi44LTY3LjIgMTUwLTE1MCAxNTBIMTUwQzY3LjIgNjAwIDAgNTMyLjggMCA0NTBWMTAwQzAgNjcuMiA2Ny4yIDAgMTUwIDB6IiBmaWxsPSIjMDA3NEFFIiBmaWxsLW9wYWNpdHk9Ii44Ii8+PHBhdGggZD0iTTE1MCAwaDMwMGM4Mi44IDAgMTUwIDY3LjIgMTUwIDE1MHYzMDBjMCA4Mi44LTY3LjIgMTUwLTE1MCAxNTBIMTUwQzY3LjIgNjAwIDAgNTMyLjggMCA0NTBWMTAwQzAgNjcuMiA2Ny4yIDAgMTUwIDB6IiBmaWxsPSIjMDA0QzU3IiBmaWxsLW9wYWNpdHk9Ii42Ii8+PHBhdGggZD0iTTQ1MCAwaDE1MHYxNTBMMzAwIDYwMEgwbjY3LjJWNDUwbDE1MC0xNTBWMDB6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white"><br/>
-🚀 **DevOps and Tools:**
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><br/>
-🌐 **Operating Systems:**
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"><br/>
+💻 **Programming Languages:** <br/>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br/>
+</p>
+
+🖌️ **Frontend Technologies:**  <br/>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/PureScript-4D4DFF?style=for-the-badge&logo=purescript&logoColor=white"><br/>
+</p>
+
+🛠️ **Backend Technologies:**  <br/>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Beckn-009AFF?style=for-the-badge&logo=code&logoColor=white" />
+
+</p>
+
+🚀 **DevOps and Tools:**  <br/>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><br/>
+</p>
+
+🌐 **Operating Systems:**  <br/>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"><br/>
+</p>
 
 ## ⚙️ Developer Metrics
-
+<br/>
 
 <p align="center">
   <a href="https://github.com/ratnadeep-99">
